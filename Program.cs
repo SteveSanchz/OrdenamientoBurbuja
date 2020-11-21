@@ -6,7 +6,9 @@ namespace OrdenamientoBurbuja
     {
         static void Main(string[] args)
         {
-            
+            Burbuja burbuja = new Burbuja();
+            burbuja.insertar_Numeros();
+            burbuja.imprimir_resultado();
         }
     }
 }

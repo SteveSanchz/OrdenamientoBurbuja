@@ -1,0 +1,16 @@
+C:\Users\Steve\Downloads\OrdenamientoBurbuja\bin\Debug\net5.0\OrdenamientoBurbuja.exe
+C:\Users\Steve\Downloads\OrdenamientoBurbuja\bin\Debug\net5.0\OrdenamientoBurbuja.deps.json
+C:\Users\Steve\Downloads\OrdenamientoBurbuja\bin\Debug\net5.0\OrdenamientoBurbuja.runtimeconfig.json
+C:\Users\Steve\Downloads\OrdenamientoBurbuja\bin\Debug\net5.0\OrdenamientoBurbuja.runtimeconfig.dev.json
+C:\Users\Steve\Downloads\OrdenamientoBurbuja\bin\Debug\net5.0\OrdenamientoBurbuja.dll
+C:\Users\Steve\Downloads\OrdenamientoBurbuja\bin\Debug\net5.0\ref\OrdenamientoBurbuja.dll
+C:\Users\Steve\Downloads\OrdenamientoBurbuja\bin\Debug\net5.0\OrdenamientoBurbuja.pdb
+C:\Users\Steve\Downloads\OrdenamientoBurbuja\obj\Debug\net5.0\OrdenamientoBurbuja.csprojAssemblyReference.cache
+C:\Users\Steve\Downloads\OrdenamientoBurbuja\obj\Debug\net5.0\OrdenamientoBurbuja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steve\Downloads\OrdenamientoBurbuja\obj\Debug\net5.0\OrdenamientoBurbuja.AssemblyInfoInputs.cache
+C:\Users\Steve\Downloads\OrdenamientoBurbuja\obj\Debug\net5.0\OrdenamientoBurbuja.AssemblyInfo.cs
+C:\Users\Steve\Downloads\OrdenamientoBurbuja\obj\Debug\net5.0\OrdenamientoBurbuja.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Downloads\OrdenamientoBurbuja\obj\Debug\net5.0\OrdenamientoBurbuja.dll
+C:\Users\Steve\Downloads\OrdenamientoBurbuja\obj\Debug\net5.0\ref\OrdenamientoBurbuja.dll
+C:\Users\Steve\Downloads\OrdenamientoBurbuja\obj\Debug\net5.0\OrdenamientoBurbuja.pdb
+C:\Users\Steve\Downloads\OrdenamientoBurbuja\obj\Debug\net5.0\OrdenamientoBurbuja.genruntimeconfig.cache
